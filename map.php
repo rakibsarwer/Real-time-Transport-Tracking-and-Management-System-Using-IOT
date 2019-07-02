@@ -186,7 +186,7 @@ require_once 'php_action/db_connect.php';
 
 
 <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA1loua0jCRDc9gvy4i5OJW12MorXBwxm4&callback=load">
+        src="https://maps.googleapis.com/maps/api/js?key=&callback=load">
 
 
 
